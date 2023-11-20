@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Atap",
+    "str": "atap",
+    "nonStrValue1": "lantai",
+    "nonStrValue2": "dinding",
+    "nonStrValue3": "mandi",
+    "nonStrValue4": "mck",
+    "nonStrValue5": "minum",
+    "upload": "upload-atap",
+    "submit": "kondisi_atap"
+  },
+  {
+    "id": 2,
+    "title": "Dinding",
+    "str": "dinding",
+    "nonStrValue1": "lantai",
+    "nonStrValue2": "atap",
+    "nonStrValue3": "mandi",
+    "nonStrValue4": "mck",
+    "nonStrValue5": "minum",
+    "upload": "upload-dinding",
+    "submit": "kondisi_dinding"
+  },
+  {
+    "id": 3,
+    "title": "Lantai",
+    "str": "lantai",
+    "nonStrValue1": "atap",
+    "nonStrValue2": "dinding",
+    "nonStrValue3": "mandi",
+    "nonStrValue4": "mck",
+    "nonStrValue5": "minum",
+    "upload": "upload-lantai",
+    "submit": "kondisi_lantai"
+  },
+  {
+    "id": 4,
+    "title": "Kamar Mandi",
+    "str": "mandi",
+    "nonStrValue1": "lantai",
+    "nonStrValue2": "dinding",
+    "nonStrValue3": "atap",
+    "nonStrValue4": "mck",
+    "nonStrValue5": "minum",
+    "upload": "upload-bathroom",
+    "submit": "kondisi_kamar_mandi"
+  },
+  {
+    "id": 5,
+    "title": "MCK",
+    "str": "mck",
+    "nonStrValue1": "lantai",
+    "nonStrValue2": "dinding",
+    "nonStrValue3": "mandi",
+    "nonStrValue4": "atap",
+    "nonStrValue5": "minum",
+    "upload": "upload-mck",
+    "submit": "kondisi_mck"
+  },
+  {
+    "id": 6,
+    "title": "Sumber Air Minum",
+    "str": "minum",
+    "nonStrValue1": "lantai",
+    "nonStrValue2": "dinding",
+    "nonStrValue3": "mandi",
+    "nonStrValue4": "mck",
+    "nonStrValue5": "atap",
+    "upload": "upload-minum",
+    "submit": "kondisi_sumber_air_minum"
+  }
+]
